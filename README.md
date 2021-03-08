@@ -24,7 +24,7 @@ I learned a lot from the open-source community and I love how collaboration and 
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Man_Jha28](https://twitter.com/Man_Jha28);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📝 [Resume](https://drive.google.com/drive/folders/1H480D3jpAR5mqUdVgSxwSPTONo2SOPbj?usp=sharing)
 
 
 

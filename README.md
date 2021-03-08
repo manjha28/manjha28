@@ -36,4 +36,4 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjha28" alt="manjha28" /></a> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manjha28&show_icons=true&theme=gotham" alt="manjha28" />

@@ -20,7 +20,7 @@ Right now I am working on developing trading strategies based on support and res
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/manjha28/manjha28/main/giphy.webp" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Man_Jha28](https://twitter.com/Man_Jha28);
